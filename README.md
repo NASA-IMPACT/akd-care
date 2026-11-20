@@ -1,6 +1,6 @@
 # AKD-CARE
 
-**Collaborative Agent Reasoning Engineering** (CARE) is a disciplined, stage-gated methodology for systematically engineering AI agents in scientific and technical workflows. Influenced by the vision of Accelerated Knowledge Discovery (AKD), CARE moves away from ad hoc prompt tinkering toward a structured engineering process built around reusable design artifacts and human-in-the-loop oversight.
+**Collaborative Agent Reasoning Engineering** (CARE) is a disciplined, stage-gated methodology for systematically engineering LLM agents in scientific and technical workflows. Influenced by the vision of Accelerated Knowledge Discovery (AKD), CARE moves away from ad hoc prompt tinkering toward a structured engineering process built around reusable design artifacts and human-in-the-loop oversight.
 
 ---
 
